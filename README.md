@@ -2,6 +2,7 @@
 
 Welcome to the **Multi-Functional Humanoid Arm System** — a smart, multi-mode control application built using **Python (Tkinter)** and **Arduino** to operate a robotic humanoid arm.  
 This system provides advanced interaction modes such as **Morse Code translation**, **hand-pose control**, **voice-to-text command input**, and **game modules**, all through a clean, modern GUI interface.
+Video in LinkedIn (https://www.linkedin.com/posts/yousef-ibrahem1_robotics-innovation-technology-activity-7277648617102860288-nr0K?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9UNawBC4ow4-vDQR6JMVmg4FvksSqmBoU)
 
 ---
 
